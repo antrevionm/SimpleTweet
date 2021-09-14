@@ -35,6 +35,11 @@ The following **additional** features are implemented:
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 
+## Video Walkthrough
+
+![SimpleTweet](https://user-images.githubusercontent.com/81782671/133192544-650d933c-69be-4b98-8d0b-5246cbd0e545.gif)
+
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
